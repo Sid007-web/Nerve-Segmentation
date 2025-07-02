@@ -5,5 +5,5 @@ This project performs semantic segmentation of nerve structures in ultrasound im
 - Displays the predicted nerve mask for each image.
 - Built with a U-Net model trained on real ultrasound data.
 - Evaluates predictions using Dice Coefficient and IoU.
-- Optional: Visual interface using Streamlit.
+- Visual interface using Streamlit.
   
